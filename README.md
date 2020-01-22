@@ -8,7 +8,9 @@ In this project, I use natural language processing techniques in order to unders
 TABLE OF CONTENTS: 
 
 0_aita_scrape.ipynb - scrape the data
+
 1_aita_data_cleaning.ipynb - clean the data
+
 2_basic_data_specs.ipynb - basic analysis of data spec
 
 CURRENTLY WORKING ON:
