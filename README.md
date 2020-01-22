@@ -16,5 +16,8 @@ TABLE OF CONTENTS:
 CURRENTLY WORKING ON:
 
 building a classifier using TensorFlow
+
 identifying linguistic characteristics of posts
+
+### using named entity recognition to closely examine verbs applied to "I" pronoun versus verbs applied to other parties' to understand poster bias
 
