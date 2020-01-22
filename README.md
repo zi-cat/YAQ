@@ -9,9 +9,9 @@ TABLE OF CONTENTS:
 
 0_aita_scrape.ipynb - scrape the data
 
-1_aita_data_cleaning.ipynb - clean the data
+1_aita_data_cleaning.ipynb - clean the data (remove deleted posts, pie charts of classifications)
 
-2_basic_data_specs.ipynb - basic analysis of data spec
+2_basic_data_specs.ipynb - basic analysis of data specs (upvote ratio and word count)
 
 CURRENTLY WORKING ON:
 
