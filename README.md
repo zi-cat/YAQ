@@ -1,5 +1,5 @@
 # YAQ
-Your Asshole Quotion
+Your Asshole Quotient
 
 An analysis of the Am I The Asshole subreddit (https://www.reddit.com/r/AmItheAsshole/).
 
